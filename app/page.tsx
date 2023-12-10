@@ -1,3 +1,4 @@
+'use client'
 import HeaderImage from '@/app/ui/header-image';
 import CompanyInformation from '@/app/ui/company-information';
 import ContactForm from './ui/contact-form';
