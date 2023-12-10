@@ -1,3 +1,4 @@
+'use client'
 import GalleryGridItemImage from "@/app/ui/gallery-grid-item-image";
 
 export default function Gallery() {
