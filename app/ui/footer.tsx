@@ -14,7 +14,7 @@ export default function Footer({ ...props }) {
             <span className="mr-2 border rounded-full border-zinc-700">
               <Logo />
             </span>
-            <span>RGG</span>
+            <span>RGR</span>
           </Link>
           <span>
             &copy; {new Date().getFullYear()} Rain Gard Roofing LLC. All rights reserved.
